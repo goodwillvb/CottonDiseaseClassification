@@ -1,4 +1,4 @@
-# Cotton Disease Classification using Deep Learning
+# Cotton Disease Classification with Deep Learning
 
 Using Transfer Learning technique, I have implemented this image classification task to determine whether or not a particular cotton leaf/plant has disease. 
 
